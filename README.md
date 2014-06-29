@@ -1,4 +1,4 @@
-ShipsAtSea
+Ships at Sea
 ==========
 
 A composition of oil and computers on canvas.
