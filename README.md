@@ -1,4 +1,6 @@
-**Ships at Sea** is a 9 by 12 inch painted/framed canvas
+## Ships at Sea
+
+Ships at Sea is a 9 by 12 inch painted/framed canvas
 with two working computers mounted over the painting.
 
 ![framed](https://github.com/cjdaly/ShipsAtSea/wiki/images/SaS-framed.JPG)
