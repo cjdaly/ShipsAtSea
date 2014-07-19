@@ -1,6 +1,6 @@
 ## Ships at Sea
 
-Ships at Sea is a 9x12 inch, painted and framed canvas
+Ships at Sea is a framed 9x12 inch oil painted canvas
 with two working computers mounted over the painting.
 
 ![framed](https://github.com/cjdaly/ShipsAtSea/wiki/images/SaS-framed.JPG)
