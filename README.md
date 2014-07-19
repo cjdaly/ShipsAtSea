@@ -1,6 +1,6 @@
 ## Ships at Sea
 
-Ships at Sea is a 9 by 12 inch painted/framed canvas
+Ships at Sea is a 9x12 inch, painted and framed canvas
 with two working computers mounted over the painting.
 
 ![framed](https://github.com/cjdaly/ShipsAtSea/wiki/images/SaS-framed.JPG)
@@ -8,7 +8,7 @@ with two working computers mounted over the painting.
 ### Technical Specifications
 
 * [pcDuino V2](http://www.pcduino.com/pcduino-v2/) running Ubuntu Linux
-  * single ARM-7 core, 1GB RAM, 2GB Flash
+  * ARM-7 core, 1GB RAM, 2GB Flash
   * Ethernet, WiFi, microSD, ...
 * [Xadow](http://www.seeedstudio.com/depot/Xadow-Main-Board-p-1524.html) Arduino system
   * modules: [OLED display](http://www.seeedstudio.com/depot/Xadow-OLED-096-p-1520.html), [barometer/temperature sensor](http://www.seeedstudio.com/depot/Xadow-Barometer-p-1522.html), [UV sensor](http://www.seeedstudio.com/depot/Xadow-UV-Sensor-p-1694.html)
