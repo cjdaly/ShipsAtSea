@@ -1,6 +1,6 @@
-## Ships at Sea
-
 :trident: :trident: :trident: Ships at Sea is available [for sale now on Etsy](https://www.etsy.com/listing/198036649/ships-at-sea-framed-oil-and-computers-on). :trident: :trident: :trident:
+
+## Ships at Sea
 
 Ships at Sea is a framed 9x12 inch oil painted canvas
 with two working computers mounted over the painting.
