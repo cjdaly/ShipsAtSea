@@ -1,5 +1,7 @@
 :trident: :trident: :trident: Ships at Sea is available [for sale now on Etsy](https://www.etsy.com/listing/198036649/ships-at-sea-framed-oil-and-computers-on). :trident: :trident: :trident:
 
+:squirrel: :squirrel: :squirrel: Ships at Sea was lauded by Adam Curry as an "interesting piece of art" on [No Agenda show episode 665](http://665.noagendanotes.com/) (listen at 1:16:30 and PR shownote) :squirrel: :squirrel: :squirrel:
+
 ## Ships at Sea
 
 Ships at Sea is a framed 9x12 inch oil painted canvas
