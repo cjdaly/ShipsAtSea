@@ -5,7 +5,7 @@ with two working computers mounted over the painting.
 
 ![framed](https://github.com/cjdaly/ShipsAtSea/wiki/images/SaS-framed.JPG)
 
-:squirrel: :squirrel: :squirrel: Ships at Sea was lauded by Adam Curry as an "interesting piece of art" on [No Agenda show episode 665](http://665.noagendanotes.com/) (listen at 1:16:30 and PR shownote) :squirrel: :squirrel: :squirrel:
+_(Ships at Sea was lauded by Adam Curry as an "interesting piece of art" on [No Agenda show episode 665](http://665.noagendanotes.com/) (listen at 1:16:30 and PR shownote) )_
 
 ### Technical Specifications
 
